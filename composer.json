@@ -17,10 +17,10 @@
     },
     "autoload": {
         "psr-4": {
-            "funson86\\cms\\": ""
+            "jaclise\\cms\\": ""
         }
     },
     "extra": {
-        "bootstrap": "funson86\\cms\\Bootstrap"
+        "bootstrap": "jaclise\\cms\\Bootstrap"
     }
 }
